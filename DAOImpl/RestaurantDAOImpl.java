@@ -10,7 +10,7 @@ import com.tapfoods.DAO.RestaurantDAO;
 import com.tapfoods.dbUtils.DBUtils;
 import com.tapfoods.model.Restaurant;
 
-/**
+/*
  * The RestaurantDAOImpl class implements the RestaurantDAO interface and provides
  * the CRUD operations for Restaurant objects.
  */
