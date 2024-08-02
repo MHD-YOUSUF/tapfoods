@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-/**
+/**  
  * The DBUtils class provides a utility method to establish a connection to the database.
  */
 public class DBUtils {
